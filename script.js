@@ -29,7 +29,7 @@ search.addEventListener('click', () => {
             error404.classList.remove('fadeIn');
 
             const image = document.querySelector('.weather-box img');
-            const temperature = document.querySelector('.weather-box .temperature');
+            const temperature = document.querySelector('.weather-box .tempreture');
             const description = document.querySelector('.weather-box .description');
             const humidity = document.querySelector('.weather-details .humidity span');
             const wind = document.querySelector('.weather-details .wind span');

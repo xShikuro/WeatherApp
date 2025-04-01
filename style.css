@@ -81,7 +81,7 @@ body{
     margin-top: 30px;
 }
 
-.weather-box .temperature{
+.weather-box .tempreture{
     position: relative;
     color: #06283D;
     font-size: 4rem;
@@ -90,7 +90,7 @@ body{
     margin-left: -16px;
 }
 
-.weather-box .temperature span{
+.weather-box .tempreture span{
     position: absolute;
     margin-left: 4px;
     font-size: 1.5rem;
