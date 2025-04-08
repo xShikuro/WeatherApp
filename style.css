@@ -1,9 +1,19 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('fonts/SpecialElite.ttf') ;
+    font-weight: normal;
+    font-style: normal;
+}
+  
+
+
 *{
     margin: 0;
     padding: 0;
     border: 0;
     outline: none;
     box-sizing: border-box;
+    font-family: 'MyCustomFont';
 }
 
 body{
